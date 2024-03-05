@@ -1,2 +1,2 @@
 # Portofolio-Tailwind-CSS
-Portofolio yang dibuat dengan Tailwindcss
+Portofolio ke-1 yang dibuat dengan Tailwindcss.
