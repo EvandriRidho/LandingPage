@@ -1,5 +1,5 @@
 # Portofolio-Tailwind-CSS
-Portofolio ke-1 yang dibuat dengan Tailwindcss.
+Portofolio Landing Page
 note :
 ada beberapa bug yang belum di perbaiki di website ini
 1. Navbar yang tidak turun saat di scroll
