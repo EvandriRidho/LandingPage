@@ -1,3 +1,2 @@
 # Portofolio-Tailwind-CSS
-Portofolio Landing Page
-note : blom Selese.
+Portofolio Landing Page.
